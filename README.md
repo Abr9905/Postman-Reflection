@@ -26,10 +26,11 @@
 <br>
 
 <h1>Weather</h1>
+
+<h3><a href= "https://api.weatherbit.io/v2.0/current?key=9b671518a589406ca1d8d7ef1384b52f&units=I&city=Raleigh,NC">Raleigh,NC</a></h3>
 <img src="//i.pinimg.com/originals/be/1c/f1/be1cf1738d67bce6dc3f5918a78b68ec.gif">
 
-<h3><a href= "https://api.weatherbit.io/v2.0/current?key=9b671518a589406ca1d8d7ef1384b52f&units=I&city=Raleigh,NC">Raleigh,NC</a></h3> 
-Raleigh has a 0% chance of rain and snow for Wednesday August 28th, 2024.
+Raleigh has a 0% chance of precip (rain) and snow for Wednesday August 28th, 2024. The current temperature is 75 degrees.
 
 ![alt text](image-4.png)
 <br>
