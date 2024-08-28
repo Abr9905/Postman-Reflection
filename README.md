@@ -1,4 +1,5 @@
 # Postman-Reflection
+<h1>Pokemon</h1>
 #1 
 <a href= "https://pokeapi.co/api/v2/pokemon/1">Bulbasaur's</a> height is 7 and their weight is 69. Some of Bulbasaur's abilities are overgrowth and Chlorophyll ability Which can boost their speed in sunny weather.
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif">
@@ -21,3 +22,16 @@
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/700.gif">
 ![alt text](image-3.png)
 ![alt text](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/back/700.gif)
+
+<br>
+
+<h1>Weather</h1>
+<img src="//i.pinimg.com/originals/be/1c/f1/be1cf1738d67bce6dc3f5918a78b68ec.gif">
+
+<h3><a href= "https://api.weatherbit.io/v2.0/current?key=9b671518a589406ca1d8d7ef1384b52f&units=I&city=Raleigh,NC">Raleigh,NC</a></h3> 
+Raleigh has a 0% chance of rain and snow for Wednesday August 28th, 2024.
+
+![alt text](image-4.png)
+<br>
+It is important that the keys and value go in the correct area if not the API will not execute properly. (For example if the city and units keys are missing in current weather api it will show up as invalid parameter supplies like the image below)
+![alt text](image-5.png)
